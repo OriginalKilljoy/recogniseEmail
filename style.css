@@ -1,0 +1,20 @@
+html, body{
+    background-color: #5c5470;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+
+input{
+    background-color: #dbd8e3;
+    font-family: Cambria;
+    text-align: center;
+}
+
+div{
+    color: #dbd8e3;
+    font-family: Cambria;
+    text-align: center;
+}
